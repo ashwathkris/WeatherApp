@@ -3,4 +3,4 @@
 - Supports Light and Dark Mode
 
 ![Light]((https://github.com/ashwathkris/WeatherApp-SwiftUI/blob/main/light.png)https://github.com/ashwathkris/WeatherApp-SwiftUI/blob/main/light.png)
-![Dark]((https://github.com/ashwathkris/WeatherApp-SwiftUI/blob/main/dark.png)https://github.com/ashwathkris/WeatherApp-SwiftUI/blob/main/dark.png)
+![Dark](https://github.com/ashwathkris/WeatherApp-SwiftUI/blob/main/dark.png)
